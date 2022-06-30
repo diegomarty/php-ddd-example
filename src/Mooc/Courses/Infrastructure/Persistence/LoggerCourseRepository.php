@@ -9,7 +9,7 @@ use CodelyTv\Mooc\Shared\Domain\Courses\CourseId;
 use CodelyTv\Mooc\Courses\Domain\CourseRepository;
 use CodelyTv\Shared\Infrastructure\Logger\MonologLogger;
 
-final class DoctrineCourseRepository implements CourseRepository
+final class LoggerCourseRepository implements CourseRepository
 {
     public function __construct(MonologLogger $logger)
     {
