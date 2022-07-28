@@ -5,7 +5,7 @@
 </p>
 
 <h1 align="center">
-  🐘🎯 Hexagonal Architecture, DDD & CQRS in PHP test
+  🐘🎯 Hexagonal Architecture, DDD & CQRS in PHP
 </h1>
 
 <p align="center">
